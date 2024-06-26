@@ -1,0 +1,127 @@
+,starting_conditions,theorem
+0,"Given that (c+f)=a the following is statement true:
+",(a*(\frac{1}{a}))=(((0+1)+a)+(-(f+c)))
+1,"Given that (a+f)=b the following is statement true:
+",(1+(a+f))=(((b*((b+(-b))+0))*(\frac{1}{((0*b)+(0*b))}))+b)
+2,"Given that ((a*c)+f)=c the following is statement true:
+",((0*((0+(c*(a*c)))+(c*a)))+((a*c)+f))=(((0*((a*c)*c))+(0*(c*a)))+c)
+3,"Given that (c+f)=b the following is statement true:
+",(((a*a)+b)*((a^2)*(a*a)))=((((a*a)+(c+f))*(a^2))*(a*a))
+4,"The following statement is true:
+",((((a*b)+((a*(b+c))+(-((a*b)+(a*c)))))*0)*(\frac{1}{(((a*b)*0)+(0*0))}))=(1*1)
+5,"Given that (b+f)=(a*1) the following is statement true:
+",1=(((((a+(-(a*1)))+b)*0)+(b+f))*(\frac{1}{(((0*0)+(b*0))+(a*1))}))
+6,"The following statement is true:
+",(((((b^2)+b)*(b^2))+(-(((b*(0+b))*(b^2))+(b*(b^2)))))+(a+0))=((0+a)+0)
+7,"The following statement is true:
+",(1*1)=(1^2)
+8,"The following statement is true:
+",(c*c)=(c*c)
+9,"The following statement is true:
+",(((0*a)+(0*(-a)))*(\frac{1}{(0^2)}))=(1*1)
+10,"Given that (c+f)=c the following is statement true:
+",(1*((((a+(c+f))*b)*(a+c))*(\frac{1}{(1*((a+c)*(b*(a+c))))})))=(1^2)
+11,"The following statement is true:
+",((((c*c)+(c*c))+0)+(c*c))=(1*((((c^2)+(c*c))+0)+(0+(c*c))))
+12,"Given that ((c*b)+f)=(c*b) the following is statement true:
+",(0+((c*b)+f))=((c*b)+((c*(b+c))+(-((c*b)+(c^2)))))
+13,"The following statement is true:
+",((((a*a)+(a^2))+(-((a*(a+a))*1)))+((a^2)+(a*a)))=((0+(a^2))+(a*a))
+14,"Given that (c+f)=a the following is statement true:
+",((((((b*a)*a)+a)+a)*(b*a))+0)=(1*((((b*(a*a))+(c+f))*(b*a))+(a*(b*a))))
+15,"Given that (a+f)=c the following is statement true:
+",0=((((b*f)+((a+(a+f))*f))*(f+a))+(-((f*((b+(a+c))*f))+(((b+(a+c))*f)*a))))
+16,"The following statement is true:
+",(0*(((0+c)*(0+(0+c)))+(-((0*c)+((0+c)*c)))))=(0^2)
+17,"Given that (0+f)=c the following is statement true:
+",(((b*a)+c)+(-(0+f)))=(1*((a+0)*b))
+18,"The following statement is true:
+",((((a+(a+c))*(a+c))+(b*(a+c)))*(a*c))=(((((((a+c)+a)+b)*a)+((((a+c)+a)+b)*c))*a)*c)
+19,"The following statement is true:
+",1=(((c+(1*(b*(b+((c+b)+c)))))*b)*(\frac{1}{((c*b)+(((b*b)+(b*(c+(b+c))))*b))}))
+20,"Given that (0+f)=a the following is statement true:
+",a=(((a+a)+0)+(-(0+f)))
+21,"Given that (c+f)=(b*a) the following is statement true:
+",((b*a)*((0+1)+1))=(((b*a)*(((b*(a*a))+(c+f))*(\frac{1}{(((b*a)*a)+(b*a))})))+((b*a)*1))
+22,"The following statement is true:
+",((c*(c*1))+(0*(c*1)))=((c+0)^2)
+23,"Given that ((0+c)+f)=(0+c) the following is statement true:
+",(((c+((0+c)+f))^2)*(f*(0+c)))=((((c*((0+c)+(0+c)))+(((0+c)+f)*((0+c)+(0+c))))*f)*(0+c))
+24,"The following statement is true:
+",(0^2)=(0+((a*0)+(0*(-a))))
+25,"Given that (a+f)=(b^2) the following is statement true:
+",0=((((c+(((b*b)+c)+(b^2)))*(b^2))+(a+f))+(-(((c*(b^2))+(((b^2)+(c+(b^2)))*(b^2)))+(b^2))))
+26,"The following statement is true:
+",(((0+c)*((c+c)+c))+(((c+c)*(c+c))+((c+c)*c)))=(((0+c)+(c+c))^2)
+27,"Given that (a+f)=a the following is statement true:
+",(((a+(-a))+a)+(-f))=((0+a)+0)
+28,"Given that (c+f)=c the following is statement true:
+",((b*a)*((((-(b*a))+(a*b))+c)+(b*a)))=(((b*a)*(0+(c+f)))+((b*a)*(b*a)))
+29,"The following statement is true:
+",((((a^2)+a)*c)*c)=((((((a*a)*c)+(a*c))*(c+(a*c)))*1)+(-((((a^2)+a)*c)*(a*c))))
+30,"The following statement is true:
+",0=(((1*(\frac{1}{c}))*c)+(-(1^2)))
+31,"The following statement is true:
+",(c*(1+((b*((a*1)*(c*(1*a))))+((a*1)*((a*1)*(c*(a*1)))))))=((c*1)+(c*((b+(a*1))*((a*c)*(a*1)))))
+32,"Given that (a+f)=1 the following is statement true:
+",(((1+a)+(\frac{1}{b}))*(((1+1)+a)+1))=(((1+a)*((((\frac{1}{b})*b)+(1+a))+(a+f)))+((\frac{1}{b})*(((b*(\frac{1}{b}))+(1+a))+(a+f))))
+33,"The following statement is true:
+",(c*((a^2)+(b+(a^2))))=(((a^2)*c)+(c*((1*(a*a))+b)))
+34,"Given that (a+f)=b the following is statement true:
+",(((b+b)*(b+(a+f)))+(-((b+(a+f))^2)))=(0+0)
+35,"The following statement is true:
+",((b+b)*(b*(c*b)))=(((b+b)*b)*(c*b))
+36,"The following statement is true:
+",(1*((((0+b)*a)*(\frac{1}{(a*b)}))+b))=((1*1)+(1*b))
+37,"The following statement is true:
+",(0*(a+(((1*0)*c)+(((a*(a*b))+(-((a*a)*b)))*c))))=((0*a)+(0*(((1*0)+(1*0))*c)))
+38,"Given that (c+f)=b the following is statement true:
+",((((b^2)*b)+b)*(b+c))=(((((b*(b*b))+c)+f)*b)+((((b*(b*b))+c)+f)*c))
+39,"Given that (a+f)=b the following is statement true:
+",(b+a)=(((b*1)+b)+(-f))
+40,"Given that (a+f)=(c+c) the following is statement true:
+",(((c+(c+c))+(a+f))*(\frac{1}{((c+(c+c))+(c+c))}))=(0+1)
+41,"Given that (b+f)=a the following is statement true:
+",0=(((b+(b+f))^2)+(-(((b+a)*(b+(b+f)))*1)))
+42,"The following statement is true:
+",((0+c)+b)=((((((b*c)+(b*c))*(a*a))+(-(((b*(c+c))*a)*a)))+(c+b))*1)
+43,"Given that (a+f)=(c^2) the following is statement true:
+",(c*c)=(c*c)
+44,"Given that (c+f)=a the following is statement true:
+",(((c*f)+((a*((a+a)+a))*f))*((c*f)*a))=((((c+((a*((a+c)+f))+(a*a)))*f)*(c*f))*a)
+45,"The following statement is true:
+",(((c*c)+(c*((b*c)*b)))+((c*b)+b))=(((c*(c+(1*((c*b)*b))))+(c*b))+b)
+46,"The following statement is true:
+",((c+(c*(a*b)))*(1*((b*(c*a))+c)))=((c+(c*(a*b)))^2)
+47,"The following statement is true:
+",((b*c)*(((0+a)+a)+0))=(((b*c)*((a+a)+((b*(b*c))+(-((b*b)*c)))))+((b*c)*0))
+48,"The following statement is true:
+",(((0+b)+a)*((a+b)*1))=(((0+b)+a)^2)
+49,"Given that (c+f)=c the following is statement true:
+",(((0+((c+a)*a))+c)*((a^2)*(a^2)))=(((((c*a)+(a^2))+(c+f))*(a^2))*(a^2))
+50,"The following statement is true:
+",1=(((\frac{1}{((b*(b+a))+0)})*(b*b))+((b*a)*(\frac{1}{((b*(b+a))+0)})))
+51,"Given that (a+f)=c the following is statement true:
+",((((c+(a+f))*c)+((c+(a+f))*c))+(-((c+(a+f))^2)))=(0+0)
+52,"Given that (b+f)=a the following is statement true:
+",(((((b*b)+b)*(b^2))+b)+f)=((((b*b)*(b^2))+(b*(b^2)))+a)
+53,"The following statement is true:
+",(b*(((c*b)*b)+((b*b)+(b*b))))=((((b+(c*b))*(((c*(b*b))+(b*b))+(b*b)))+0)+(-((c*b)*(((c*b)*b)+((b*b)+(b*b))))))
+54,"The following statement is true:
+",((0^2)*((-c)*a))=(((((-c)+c)*0)*(-c))*a)
+55,"The following statement is true:
+",(1+0)=(((((a*b)+((a*a)+(a*b)))*(a+b))*(\frac{1}{(((a*b)*(a+b))+((a*(a+b))*(a+b)))}))*1)
+56,"The following statement is true:
+",((0+(0+0))*(((b*0)+(b*0))+0))=((0*((b*((a+(-a))+0))*1))+((0+0)*((b*((a+(-a))+0))*1)))
+57,"The following statement is true:
+",(0*c)=((0^2)+(-((-c)*0)))
+58,"The following statement is true:
+",(0+(((a*b)+b)+(b*a)))=(1*(((a*b)+(a*b))+b))
+59,"Given that (0+f)=a the following is statement true:
+",(((c*a)*(((a*c)+(-((c*a)+0)))+0))+(0+f))=((((c*a)*0)+((c*a)*0))+a)
+60,"Given that (0+f)=(\\frac{1}{(c^2)}) the following is statement true:
+",(((c^2)*(\frac{1}{(0+(c*c))}))+(0+f))=((1*1)+(\frac{1}{(c^2)}))
+61,"The following statement is true:
+",(((c*b)+(0*b))+((c*a)+b))=((((((b*(c*a))+(-((b*c)*a)))+c)*b)+(c*a))+b)
+62,"The following statement is true:
+",(((c^2)+(-(0+(c*c))))*(c*b))=((0*c)*b)
